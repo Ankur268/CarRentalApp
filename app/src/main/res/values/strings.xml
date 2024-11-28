@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CarRentalApp</string>
+    <string name="speed">Enter Speed (km/h)</string>
+    <string name="drive">Drive</string>
+</resources>
